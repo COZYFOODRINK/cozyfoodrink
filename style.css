@@ -42,6 +42,15 @@ header nav ul li a {
     gap: 15px;
     justify-content: center;
 }
+
+.navbar-keterangan {
+    
+    color: #fff;
+    border: none;
+    cursor: pointer;
+    text-decoration: none;
+    font-weight: bold;
+}
 /* end navbar */
 
 /* Untuk media ukuran maksimal 750px */
@@ -152,7 +161,7 @@ footer {
     resize: vertical;
 }
 
-button[type="submit"] {
+.button[type="submit"] {
     padding: 10px 20px;
     background-color: #333;
     color: #fff;
